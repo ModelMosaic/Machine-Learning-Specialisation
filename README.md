@@ -9,6 +9,6 @@ This repository is organized into three primary parts, reflecting the structure 
 
 - **Course 1:** Supervised Machine Learning: Regression and Classification
 - **Course 2:** Advanced Learning Algorithms
-- **Course 3:** Unsupervised Learning, Recommenders, Reinforcement Learning
+- **Course 3:** Unsupervised Learning, Recommenders, Reinforcement Learning 
 
 You'll discover summaries, notes, and insights pertaining to each course within. For comprehensive content and well-organized modules, kindly navigate to the respective folders in this repository.
